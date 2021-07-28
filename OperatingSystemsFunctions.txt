@@ -1,3 +1,7 @@
 Miscrosoft invented Windows operating systems.
 Windows is an operating system that allows for ease of use for the user.
 This system is cheaper than other operating systems.
+
+Apple has produced its own operating system called IOS or Iphone operating systems.
+IOS only works with Apple products.
+These devices are much more expensive than others.
