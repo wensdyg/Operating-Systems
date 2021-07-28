@@ -5,3 +5,7 @@ This system is cheaper than other operating systems.
 Apple has produced its own operating system called IOS or Iphone operating systems.
 IOS only works with Apple products.
 These devices are much more expensive than others.
+
+Linux is another OS, it can be used for browsing and emailing.
+An advantage to using Linux is that it not as sesitve to malware.
+Users do not have to pay to use Linux.
